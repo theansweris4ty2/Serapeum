@@ -1,2 +1,2 @@
 # Serapeum
-Distributed File System
+Web Chat App Written in Golang
